@@ -1,0 +1,1 @@
+{"name":"atelier-note","private":true,"version":"0.1.0","type":"module","scripts":{"dev":"vite","build":"tsc -b && vite build"},"dependencies":{"@vitejs/plugin-react":"latest","lucide-react":"latest","react":"latest","react-dom":"latest","react-router-dom":"latest","vite":"latest"},"devDependencies":{"@types/react":"latest","@types/react-dom":"latest","typescript":"5.9.3"}}
